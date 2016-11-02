@@ -5,7 +5,7 @@ Créditos a lista python e ao viajante980@gmail.com
 
 A Solução é: 
 
-vai em Preferences - Keibiding -> User
+vai em Preferences - Keibiding -> User , copie e cole o codigo abaixo
 
 // missing accented characters fix for ubuntu 14.10
 
